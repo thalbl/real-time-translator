@@ -1,0 +1,45 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ========================
+# Ambiente Virtual
+# ========================
+venv/
+env/
+.venv/
+
+# ========================
+# IDEs e Editores
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# Sistema Operacional
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Modelos baixados (cache)
+# ========================
+*.bin
+*.pt
+*.safetensors
+
+# ========================
+# Diversos
+# ========================
+*.log
+.env
